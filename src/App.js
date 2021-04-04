@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>Apurva Patil will get 15 lac salary job next month April 2021!</p>
+        <p>Apurva Patil will get 15 lac/anum salary job, next month.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
